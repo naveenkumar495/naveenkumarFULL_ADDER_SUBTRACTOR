@@ -1,4 +1,11 @@
-# FULL_ADDER_SUBTRACTOR
+# EXP4-FULL_ADDER_SUBTRACTOR
+
+
+**NAME:NAVEENKUMAR**
+
+
+**REF NO:24900580**
+
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -48,8 +55,10 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+![Screenshot 2024-11-25 143526](https://github.com/user-attachments/assets/2ebe2032-8112-4483-902f-071c73ea37d2)
 
 **Output Timing Waveform**
+![Screenshot 2024-11-25 144401](https://github.com/user-attachments/assets/cc4e8709-f18e-49af-8305-06a932384b3c)
 
 **Result:**
 
